@@ -54,7 +54,7 @@ We're looking for a more realistic distribution of activity throughout the year
 2. Download your new copy of this project
 
 ```shell
-git clone https://github.com/<your-github-username>/commit-bot.git
+git clone https://github.com/saylekxd/commit-bot.git
 ```
 
 **Don't forget to include your username**
